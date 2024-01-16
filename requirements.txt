@@ -13,4 +13,4 @@ urllib3==2.1.0
 Werkzeug==3.0.1
 numpy==1.21.2
 Pillow==8.3.2
-tensorflow==2.6.0  # or the version compatible with your Keras version
+tensorflow==2.15.0  # or the version compatible with your Keras version
